@@ -1,4 +1,6 @@
 # metastable-chimera
-Matlab code for generating metastable chimera states
+Matlab and Python code for generating metastable chimera states
 
-Just run ChimeraDemoFast and watch the communities of oscillators go in and out of synchrony
+Matlab version: Run ChimeraDemoFast
+
+Python version: Run all the cells in the notebook
